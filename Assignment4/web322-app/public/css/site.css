@@ -1,0 +1,44 @@
+.myheader {
+    background-color: rgb(145, 224, 235);
+ }
+ 
+
+ body {
+  background-color: #f4f9fd;
+ }
+
+ span {
+
+    font-family: "Times New Romans", "Comic Sans MS", cursive, sans-serif;
+} 
+
+.navbar-brand{
+    font-family: 'Times New Romans';
+    opacity: 0.8;    
+    font-size: 25px;
+    letter-spacing: 4px;
+    font-style: bold;
+    text-shadow: 1px 2px #be0a22;
+  }
+
+  .formCSS{
+      background: #f4f4f4;
+  }
+  
+ table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+  
